@@ -1,0 +1,13 @@
+	TRAIN TICKET
+
+Name : mick
+Route : A5
+Train type : slow_train
+Train no : 1
+Class : third
+Starting point : A
+Destination : A1
+Number of reservations made : 2
+Ticket numbers : 1 to 2
+
+	HAPPY JOURNEY!
